@@ -1,0 +1,25 @@
+.specs {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+.phone-images {
+  width: 30%;
+  flex-shrink: 0;
+}
+.phone-images img {
+  width: 100%;
+}
+.image-carousel {
+  display: flex;
+  justify-content: space-around;
+}
+.phone-thumbs {
+  height: 90vh;
+  overflow: scroll;
+  width: 20%;
+}
+.phone-thumbs img {
+  width: 100%;
+}

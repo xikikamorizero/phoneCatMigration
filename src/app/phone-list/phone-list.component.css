@@ -1,0 +1,12 @@
+.phones{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.phones li{
+  width: 70%;
+  min-width: 300px;
+}
+.col-md-2{
+  padding: 50px 20px;
+}
